@@ -42,7 +42,6 @@ function playround(){
             round_track++;
             alert("You Won!!");
             humanscore++;
-            round_track++;
         }
         else if(humanchoice=="paper" && computerchoice=="paper"){
             round_track++;
